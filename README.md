@@ -16,7 +16,7 @@ $ sudo pacman -R bloated_text --noconfirm
 $ python main.py
 ```
 # Python: Not perfect, but it’s the duct tape of programming.
-```
+
 
 ```bash
 $ cat life_goals.txt
@@ -26,7 +26,7 @@ $ cat life_goals.txt
 - Engineering: the fun of making real things.
 - Gaming: PC Master Race, obviously.
 - Balance: A little bit of everything... with style.
-```
+
 
 ```bash
 $ git commit -m "Code is life. Gaming is passion. Engineering is logic."

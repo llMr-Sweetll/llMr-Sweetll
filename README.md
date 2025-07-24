@@ -1,44 +1,70 @@
-# Welcome to the Universe 🚀
+````markdown
+<!--  ███   ████   █████  █      ████   ████   ████  -->
+<!--  █  █  █   █  █      █      █   █  █   █  █   █ -->
+<!--  ███   ████   ████   █      ████   ████   ████  -->
+<!--  █  █  █   █  █      █      █   █  █   █  █   █ -->
+<!--  █  █  █   █  █████  █████  ████   █   █  █   █ -->
+
+# Welcome, Human 👾
 
 ```bash
 $ whoami
-```
-Mr. Sweet - Code, AI/ML, Games, Engineering, and just getting stuff done
+mr-sweet  # Engineering polyglot, AI tinkerer, composite whisperer, eternal gamer
+````
 
-
-```bash
-$ sudo pacman -R bloated_text --noconfirm
-```
-# Nah, I prefer the fast lane. VS Code all the way. It just gets the work done.
-
-
-```bash
-$ python main.py
-```
-# Python: Not perfect, but it’s the duct tape of programming.
-
-
-```bash
-$ cat life_goals.txt
-```
-- AI/ML & LLMs: because we're basically living in sci-fi.
-- Python & Automation: when things just need to work.
-- Engineering: the fun of making real things.
-- Gaming: PC Master Race, obviously.
-- Balance: A little bit of everything... with style.
-
-
-```bash
-$ git commit -m "Code is life. Gaming is passion. Engineering is logic."
-```
-
-### Join the journey or clone the repo. You decide.
-```bash
-$ fork --now
-```
+| 🛠 **Tech Stack**                                                                                                                       | 🚀 **Current Quests**                                                                                                                                                                  | 🎮 **Side-Buffs**                                                                            |
+| --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| `Python` · `C/C++` · `JS(T3)`<br>`PyTorch` · `TensorFlow` · `ONNX`<br>`MATLAB/Simulink` · `ROS2`<br>`Raspberry Pi 5` · `Jetson` · `μCT` | • **Multispectral/thermal probes** for early oral-cancer screening<br>• **AI-optimised crash-cores** for lightweight mobility | • Arch-ish Linux ⌨️ (don’t @ me)<br>• DOOM + WH40K lore dumps<br>• PC Master Race evangelism |
 
 ---
 
-*Minimal text. Maximum efficiency. Code hard. Game harder.*
+## `$ cat philosophy.txt`
+
+> **Minimal text. Maximum effect.**
+> *Ship prototypes fast, refactor later, never stop learning.*
+
+---
+
+## `$ python life.py`
+
+```python
+class AgenticEngineer:
+    def __init__(self):
+        self.energy = "caffeine"
+        self.stack  = ["spectroscopy", "control systems", "AI/ML", "composites"]
+    def hack(self):
+        return "🚀 42 % runtime ↓ & 21 pp accuracy ↑"
+```
+
+*Proof-of-life:* eight peer-reviewed papers (IF avg ≈ 5) • >\$150 k research funding • one more patent pending.
+
+---
+
+## Toolbox Highlights 🧰
+
+| 📜 Papers                                                                                                                                                              | 🧪 Prototypes                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| *Apatite Insights* — **EPJ** (IF 6) · 2024<br>*Enhanced O₂/N₂ Membranes* — **Heliyon** (IF 4) · 2023<br>*Bio-Inspired AM Structures* — **Biomimetics** (IF 4.5) · 2022 | **Fiber-Tracker 3D** → 99 % F1 open-sourced<br>Port-MSX Oral Probe → 94.7 % sensitivity<br>Crash-Core AI Optimiser → 35 % energy-absorption gain |
+
+*(Serious code lives in private & lab repos; public space is mostly config and coffee-fuelled experiments.)*
+
+---
+
+## `$ git commit -m "Code hard. Game harder."`
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=llMr-Sweetll\&show_icons=true\&hide_title=true\&hide_rank=true\&theme=tokyonight\&hide_border=true)
+
+---
+
+### Connect
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/hegdechandrashekhar/) — professional alter-ego
+* 🎙 Occasionally tweeting @ *your-favourite-sci-fi-quote* (work in progress)
+* 📨  ping ➞ **hegde.g.chandrashekhar –at– gmail**
+
+> *Clone the repo, fork the ideas, open an issue—your move.*
+
+```
 
 
+```

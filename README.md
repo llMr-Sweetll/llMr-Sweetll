@@ -64,7 +64,4 @@ class AgenticEngineer:
 
 > *Clone the repo, fork the ideas, open an issue—your move.*
 
-```
 
-
-```

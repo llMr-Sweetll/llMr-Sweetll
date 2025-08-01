@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=3000&pause=9999999&color=8A2BE2,9370DB,BA55D3,DDA0DD,E6E6FA&center=true&vCenter=true&width=600&height=80&lines=MR.+SWEET&repeat=false" alt="MR. SWEET Animated Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=3000&pause=1000&color=A855F7,8B5CF6,7C3AED,6366F1,C4B5FD&center=true&vCenter=true&width=600&height=80&lines=MR.+SWEET&repeat=5" alt="MR. SWEET Animated Title" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=9999999&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7,DDA0DD,98D8C8&center=true&vCenter=true&multiline=true&width=650&height=200&lines=Welcome%2C+Human+👾+%7C+Scroll+Down%2C+If+You+Dare!+🚀+%7C+Entering+Sweetverse...+✨+%7C+Ready+for+Adventure%3F+🌟&repeat=false" alt="Animated Welcome Text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=A855F7,8B5CF6,7C3AED,6366F1,C4B5FD&center=true&vCenter=true&multiline=true&width=650&height=200&lines=Welcome%2C+Human+👾;Scroll+Down%2C+If+You+Dare!+🚀;Entering+Sweetverse...+✨;Ready+for+Adventure%3F+🌟&repeat=false" alt="Animated Welcome Text" />
 </div>
 
 ---
@@ -48,7 +48,7 @@ Just another carbon-based life form trying to understand the universe through co
   <a href="https://github.com/microsoft/vscode" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="50" height="50" />
   </a>
-  <a href="https://github.com" target="_blank">
+  <a href="https://github.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="50" height="50" />
   </a>
   <a href="https://github.com/aws/aws-cli" target="_blank">
@@ -61,7 +61,7 @@ Just another carbon-based life form trying to understand the universe through co
 ## 📊 Cosmic Analytics
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Neural Network Animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Neural Network Animation" />
 </div>
 
 ---
@@ -80,13 +80,13 @@ Ship fast. Learn faster. Never stop exploring.
 
 ## 🚀 Current Missions
 
-• 🔬 **Multispectral Analysis:** Early detection systems  
-• 🤖 **AI/ML Research:** Neural network optimization  
-• 🛰️ **Space Tech:** Satellite communication protocols  
-• 🎮 **Game Development:** Physics simulation engines  
+• 🔬 **Multispectral Analysis**: Early detection systems  
+• 🤖 **AI/ML Research**: Neural network optimization  
+• 🛰️ **Space Tech**: Satellite communication protocols  
+• 🎮 **Game Development**: Physics simulation engines  
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&text=Journey%20Continues...&fontSize=42&fontColor=fff&animation=twinkling" alt="Journey Animation" />
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100" alt="Journey Animation" />
 </div>

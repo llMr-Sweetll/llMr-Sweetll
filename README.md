@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://media-giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="150" alt="Cosmic Alien Swirl" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=3000&pause=500&color=8A2BE2,9370DB,BA55D3,DDA0DD,E6E6FA&center=true&vCenter=true&width=600&height=80&lines=MR.+SWEET;✨+COSMIC+DEVELOPER+✨;🚀+DIGITAL+ARCHITECT+🚀" alt="MR. SWEET Animated Title" />
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="150" alt="Cosmic Alien Swirl" />
 </div>
 
 <div align="center">
@@ -9,7 +13,6 @@
 ---
 
 #### 💫 About Me
-
 Just another carbon-based life form trying to understand the universe through code and contemplation. When not debugging the mysteries of the cosmos, I enjoy building things that matter and breaking things that don't.
 
 ---
@@ -44,7 +47,7 @@ Just another carbon-based life form trying to understand the universe through co
   <a href="https://github.com/microsoft/vscode" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="50" height="50" />
   </a>
-  <a href="https://github.com/github" target="_blank">
+  <a href="https://github.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="50" height="50" />
   </a>
   <a href="https://github.com/aws/aws-cli" target="_blank">
@@ -66,24 +69,23 @@ Just another carbon-based life form trying to understand the universe through co
 
 ```bash
 $ cat cosmic_philosophy.txt
-```
-
-> The universe is not only stranger than we imagine,
-> it is stranger than we can imagine.
+The universe is not only stranger than we imagine, 
+it is stranger than we can imagine.
 
 Ship fast. Learn faster. Never stop exploring.
+```
 
 ---
 
 ## 🚀 Current Missions
 
-- • 🔬 **Multispectral Analysis**: Early detection systems
-- • 🤖 **AI/ML Research**: Neural network optimization  
-- • 🛰️ **Space Tech**: Satellite communication protocols
-- • 🎮 **Game Development**: Physics simulation engines
+• 🔬 **Multispectral Analysis:** Early detection systems  
+• 🤖 **AI/ML Research:** Neural network optimization  
+• 🛰️ **Space Tech:** Satellite communication protocols  
+• 🎮 **Game Development:** Physics simulation engines  
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=The+Journey+Continues...;Ad+Astra+Per+Aspera;🚀+Exploring+New+Frontiers+🚀;✨+To+The+Stars+✨" alt="Journey Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=footer&text=Journey%20Continues...&fontSize=42&fontColor=fff&animation=twinkling" alt="Journey Animation" />
 </div>

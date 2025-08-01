@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=3000&pause=500&color=8A2BE2,9370DB,BA55D3,DDA0DD,E6E6FA&center=true&vCenter=true&width=600&height=80&lines=MR.+SWEET;✨+COSMIC+DEVELOPER+✨;🚀+DIGITAL+ARCHITECT+🚀" alt="MR. SWEET Animated Title" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=3000&pause=9999999&color=8A2BE2,9370DB,BA55D3,DDA0DD,E6E6FA&center=true&vCenter=true&width=600&height=80&lines=MR.+SWEET&repeat=false" alt="MR. SWEET Animated Title" />
 </div>
 
 <div align="center">
@@ -7,12 +7,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7,DDA0DD,98D8C8&center=true&vCenter=true&multiline=true&width=650&height=200&lines=Welcome%2C+Human+👾;Scroll+Down%2C+If+You+Dare!+🚀;Entering+Sweetverse...+✨;Ready+for+Adventure%3F+🌟" alt="Animated Welcome Text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=32&duration=2500&pause=9999999&color=FF6B6B,4ECDC4,45B7D1,96CEB4,FFEAA7,DDA0DD,98D8C8&center=true&vCenter=true&multiline=true&width=650&height=200&lines=Welcome%2C+Human+👾+%7C+Scroll+Down%2C+If+You+Dare!+🚀+%7C+Entering+Sweetverse...+✨+%7C+Ready+for+Adventure%3F+🌟&repeat=false" alt="Animated Welcome Text" />
 </div>
 
 ---
 
 #### 💫 About Me
+
 Just another carbon-based life form trying to understand the universe through code and contemplation. When not debugging the mysteries of the cosmos, I enjoy building things that matter and breaking things that don't.
 
 ---

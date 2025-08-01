@@ -69,11 +69,12 @@ Just another carbon-based life form trying to understand the universe through co
 
 ```bash
 $ cat cosmic_philosophy.txt
+```
 The universe is not only stranger than we imagine, 
 it is stranger than we can imagine.
 
 Ship fast. Learn faster. Never stop exploring.
-```
+
 
 ---
 

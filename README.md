@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=48&duration=2000&pause=1000&color=A855F7&background=000000&center=true&vCenter=true&gradient=A855F7,8B5CF6,7C3AED&width=600&height=80&lines=MR.+SWEET;👾+MR.+SWEET+👾" alt="MR. SWEET Purple Gradient Header" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="150" alt="Cosmic Alien Swirl" />
+  <img src="https://media-giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="150" alt="Cosmic Alien Swirl" />
 </div>
 
 <div align="center">
@@ -21,7 +17,39 @@ Just another carbon-based life form trying to understand the universe through co
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,pytorch,tensorflow,docker,linux,git,vscode,github,aws&theme=dark" alt="Tech Stack" />
+  <a href="https://github.com/python/cpython" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="50" height="50" />
+  </a>
+  <a href="https://github.com/tc39/ecma262" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript" width="50" height="50" />
+  </a>
+  <a href="https://github.com/microsoft/TypeScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=typescript&theme=dark" alt="TypeScript" width="50" height="50" />
+  </a>
+  <a href="https://github.com/pytorch/pytorch" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" width="50" height="50" />
+  </a>
+  <a href="https://github.com/tensorflow/tensorflow" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" width="50" height="50" />
+  </a>
+  <a href="https://github.com/docker/docker" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="50" height="50" />
+  </a>
+  <a href="https://github.com/torvalds/linux" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="50" height="50" />
+  </a>
+  <a href="https://github.com/git/git" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="50" height="50" />
+  </a>
+  <a href="https://github.com/microsoft/vscode" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" width="50" height="50" />
+  </a>
+  <a href="https://github.com/github" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="50" height="50" />
+  </a>
+  <a href="https://github.com/aws/aws-cli" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" width="50" height="50" />
+  </a>
 </div>
 
 ---

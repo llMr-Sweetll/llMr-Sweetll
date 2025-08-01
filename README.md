@@ -1,48 +1,38 @@
-# 🌟 Ad Astra Paraspara ✨
+# 🌟 Welcome, Cosmic Explorer! ✨
 
-<!-- Animated Banner with Real SVG -->
+> *"Because I always feel like running. Not away, because there is no such place. Because if there was, I would have found it by now."* - Unknown Earthling
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Welcome+to+the+Cosmos+🚀;Ad+Astra+Paraspara+⭐;Engineer+%7C+Dreamer+%7C+Explorer;To+the+Stars+Through+Hardships" alt="Animated Typing Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Welcome+to+my+digital+cosmos+🌌;Exploring+the+universe+one+commit+at+a+time+🚀;We+are+made+of+star-stuff+⭐" alt="Animated Typing Banner" />
 </div>
-
-<!-- Animated SVG Divider -->
-<div align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?angle=45&start=00D4FF&end=FF6B9D&width=800&height=3" alt="Gradient Divider" />
-</div>
-
-## 🌌 Carl Sagan's Wisdom
-
-> *"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself."*  
-> — **Carl Sagan**
-
-> *"Somewhere, something incredible is waiting to be known."*  
-> — **Carl Sagan**
-
-> *"We are all connected; To each other, biologically. To the earth, chemically. To the rest of the universe atomically."*  
-> — **Carl Sagan**
 
 ---
 
-## 🎮 Interactive Tic-Tac-Toe Game
+## 💫 About Me
 
-**Click the numbers to play!** Current Player: **X**
+*We are made of star-stuff.* - Carl Sagan
+
+Just another carbon-based life form trying to understand the universe through code and contemplation. When not debugging the mysteries of the cosmos, I enjoy building things that matter and breaking things that don't.
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Cosmic Snake" />
+</div>
+
+---
+
+## 🎮 Tic-Tac-Toe Demo (Visual Only)
+
+**Note**: This is a visual demonstration only - not interactive in the web sense. It's an animated visual representation that shows the structure of a tic-tac-toe game.
 
 ### Game Board
+| 1 | 2 | 3 |
+|---|---|---|
+| 4 | 5 | 6 |
+| 7 | 8 | 9 |
 
-| [1](#user-content-1) | [2](#user-content-2) | [3](#user-content-3) |
-|:---:|:---:|:---:|
-| [4](#user-content-4) | [5](#user-content-5) | [6](#user-content-6) |
-| [7](#user-content-7) | [8](#user-content-8) | [9](#user-content-9) |
+**Instructions**: This markdown-based game board shows how a tic-tac-toe interface could be structured. In a real implementation, you would need JavaScript for full interactivity, but this demonstrates the visual layout concept.
 
-**Instructions:** This is a markdown-based Tic-Tac-Toe demo. In a real implementation, JavaScript would be needed for full interactivity, but this shows the visual structure using clickable anchor links.
-
-**Game State:** Player X's turn | Score: X=0, O=0
-
-[🔄 Reset Game](#user-content-reset) | [📋 Rules](#user-content-rules)
-
-</div>
+**Game State**: Visual Demo Mode | This is not a playable web game
 
 ---
 
@@ -73,8 +63,6 @@
 $ cat cosmic_philosophy.txt
 ```
 
-**"Ad Astra Paraspara"** - *To the stars through hardships*
-
 > The universe is not only stranger than we imagine,  
 > it is stranger than we can imagine.
 
@@ -92,9 +80,16 @@ $ cat cosmic_philosophy.txt
 ---
 
 <div align="center">
-  <img src="https://gradient-svg-generator.vercel.app/api/svg?angle=90&start=FF6B9D&end=4ECDC4&width=600&height=2" alt="Footer Divider" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</div>
+
+---
+
+<div align="center">
   
-  **🌌 "We are made of star-stuff" - Carl Sagan 🌌**
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=16&duration=4000&pause=2000&color=4ECDC4&center=true&vCenter=true&width=500&lines=Keep+exploring+the+cosmos+🚀;Ad+Astra+Paraspara+⭐;The+journey+continues..." alt="Footer Animation" />
+### 🌌 *Ad Astra Paraspara* 🌌
+*To the stars through hardships*
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=16&duration=4000&pause=2000&color=4ECDC4&center=true&vCenter=true&width=500&lines=Keep+exploring+the+cosmos+🚀;Ad+Astra+Paraspara+⭐;The+journey+continues..." alt="Journey Animation" />
+
 </div>

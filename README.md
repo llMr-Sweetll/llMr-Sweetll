@@ -1,120 +1,100 @@
-<!--  █████   ████   █████  █      ████   ████   ████  -->
-<!--  █  █  █   █  █      █      █   █  █   █  █   █ -->
-<!--  ███   ████   ████   █      ████   ████   ████  -->
-<!--  █  █  █   █  █      █      █   █  █   █  █   █ -->
-<!--  █  █  █   █  █████  █████  ████   █   █  █   █ -->
+# 🌟 Ad Astra Paraspara ✨
 
-<!-- Animated Typing SVG Banner -->
+<!-- Animated Banner with Real SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Welcome%2C+Human+👾;Engineering+Polyglot+%7C+AI+Tinkerer;Composite+Whisperer+%7C+Eternal+Gamer;Code+Hard.+Game+Harder." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Welcome+to+the+Cosmos+🚀;Ad+Astra+Paraspara+⭐;Engineer+%7C+Dreamer+%7C+Explorer;To+the+Stars+Through+Hardships" alt="Animated Typing Banner" />
 </div>
 
-# Welcome, Human 👾
-
-<!-- GitHub Contribution Snake Animation -->
+<!-- Animated SVG Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/llMr-Sweetll/llMr-Sweetll/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?angle=45&start=00D4FF&end=FF6B9D&width=800&height=3" alt="Gradient Divider" />
 </div>
+
+## 🌌 Carl Sagan's Wisdom
+
+> *"The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself."*  
+> — **Carl Sagan**
+
+> *"Somewhere, something incredible is waiting to be known."*  
+> — **Carl Sagan**
+
+> *"We are all connected; To each other, biologically. To the earth, chemically. To the rest of the universe atomically."*  
+> — **Carl Sagan**
+
+---
+
+## 🎮 Interactive Tic-Tac-Toe Game
+
+**Click the numbers to play!** Current Player: **X**
+
+<div align="center">
+
+### Game Board
+
+| [1](#user-content-1) | [2](#user-content-2) | [3](#user-content-3) |
+|:---:|:---:|:---:|
+| [4](#user-content-4) | [5](#user-content-5) | [6](#user-content-6) |
+| [7](#user-content-7) | [8](#user-content-8) | [9](#user-content-9) |
+
+**Instructions:** This is a markdown-based Tic-Tac-Toe demo. In a real implementation, JavaScript would be needed for full interactivity, but this shows the visual structure using clickable anchor links.
+
+**Game State:** Player X's turn | Score: X=0, O=0
+
+[🔄 Reset Game](#user-content-reset) | [📋 Rules](#user-content-rules)
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,pytorch,tensorflow,docker,linux,git,vscode,github,aws&theme=dark" alt="Tech Stack" />
+</div>
+
+---
+
+## 📊 Cosmic Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llMr-Sweetll&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llMr-Sweetll&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=llMr-Sweetll&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🌟 Philosophy
 
 ```bash
-$ whoami
-mr-sweet  # Engineering polyglot, AI tinkerer, composite whisperer, eternal gamer
+$ cat cosmic_philosophy.txt
 ```
 
-<!-- Animated Tech Stack using skillicons.dev -->
-<div align="center">
-  <h2>🛠️ Tech Arsenal</h2>
-  <img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript,pytorch,tensorflow,matlab,ros,raspberrypi,docker,linux,git&theme=dark" alt="Tech Stack" />
-</div>
+**"Ad Astra Paraspara"** - *To the stars through hardships*
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,aws,gcp,nodejs,react,mysql,mongodb&theme=dark" alt="Additional Skills" />
-</div>
+> The universe is not only stranger than we imagine,  
+> it is stranger than we can imagine.
 
-| 🛠 **Tech Stack**                                                                                                                       | 🚀 **Current Quests**                                                                                                                                                                  | 🎮 **Side-Buffs**                                                                            |
-| --------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| `Python` · `C/C++` · `JS(T3)`>`PyTorch` · `TensorFlow` · `ONNX`>`MATLAB/Simulink` · `ROS2`>`Raspberry Pi 5` · `Jetson` · `μCT` | • **Multispectral/thermal probes** for early oral-cancer screening>• **AI-optimised crash-cores** for lightweight mobility | • Arch-ish Linux ⌨️ (don't @ me)>• DOOM + WH40K lore dumps>• PC Master Race evangelism |
+*Ship fast. Learn faster. Never stop exploring.*
 
 ---
 
-<!-- GitHub Stats and Streaks -->
+## 🚀 Current Missions
+
+- 🔬 **Multispectral Analysis**: Early detection systems
+- 🤖 **AI/ML Research**: Neural network optimization
+- 🛰️ **Space Tech**: Satellite communication protocols
+- 🎮 **Game Development**: Physics simulation engines
+
+---
+
 <div align="center">
-  <h2>📊 GitHub Analytics</h2>
+  <img src="https://gradient-svg-generator.vercel.app/api/svg?angle=90&start=FF6B9D&end=4ECDC4&width=600&height=2" alt="Footer Divider" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llMr-Sweetll&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llMr-Sweetll&layout=compact&langs_count=8&theme=radical"/>
+  **🌌 "We are made of star-stuff" - Carl Sagan 🌌**
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=llMr-Sweetll&theme=radical" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=llMr-Sweetll&theme=radical" alt="Wakatime Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier&size=16&duration=4000&pause=2000&color=4ECDC4&center=true&vCenter=true&width=500&lines=Keep+exploring+the+cosmos+🚀;Ad+Astra+Paraspara+⭐;The+journey+continues..." alt="Footer Animation" />
 </div>
-
----
-
-## `$ cat philosophy.txt`
-
-> **Minimal text. Maximum effect.**
-> *Ship prototypes fast, refactor later, never stop learning.*
-
----
-
-## `$ python life.py`
-
-```python
-class AgenticEngineer:
-    def __init__(self):
-        self.energy = "caffeine"
-        self.stack  = ["spectroscopy", "control systems", "AI/ML", "composites"]
-    def hack(self):
-        return "🚀 42 % runtime ↓ & 21 pp accuracy ↑"
-```
-
-*Proof-of-life:* eight peer-reviewed papers (IF avg ≈ 5) • >$150 k research funding • one more patent pending.
-
----
-
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="Rainbow divider" />
-</div>
-
-## Toolbox Highlights 🧰
-
-| 📜 Papers                                                                                                                                                              | 🧪 Prototypes                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| *Apatite Insights* — **EPJ** (IF 6) · 2024>*Enhanced O₂/N₂ Membranes* — **Heliyon** (IF 4) · 2023>*Bio-Inspired AM Structures* — **Biomimetics** (IF 4.5) · 2022 | **Fiber-Tracker 3D** → 99 % F1 open-sourced>Port-MSX Oral Probe → 94.7 % sensitivity>Crash-Core AI Optimiser → 35 % energy-absorption gain |
-
-*(Serious code lives in private & lab repos; public space is mostly config and coffee-fuelled experiments.)*
-
----
-
-## `$ git commit -m "Code hard. Game harder."`
-
-<!-- Trophy Section -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=llMr-Sweetll&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## Connect
-
-• 🔗 [LinkedIn](https://www.linkedin.com/in/hegdechandrashekhar/) — professional alter-ego
-• 🎙 Occasionally tweeting @ your-favourite-sci-fi-quote (work in progress)  
-• 📨 ping ➞ hegde.g.chandrashekhar –at– gmail
-
----
-
-<!-- Visitor Badge -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=llMr-Sweetll&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/llMr-Sweetll?label=Followers&style=social" alt="GitHub followers" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-*Clone the repo, fork the ideas, open an issue—your move.*
